@@ -16,7 +16,7 @@
     "height": 455,
     "width": 299,
     "x": 44,
-    "y": 171
+    "y": 143
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,6 +30,11 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "organisms/input form",
   "nameIsFixed": false,
+  "overrides": {
+    "D821BDA1-1D37-4935-912E-D07F8F530138": {
+      "symbolID": ""
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -33,6 +33,18 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "0FE2143A-74AA-4755-B088-4D9B293F3C8D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0690D592-186B-4F40-952D-BF080734D2DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9949435-AFD3-4A9F-8E18-AAE98B085F9A"
+    },
+    {
       "class": "symbolMaster",
       "id": "9A0F5590-3259-4AF8-876A-87496521DDE0"
     },
@@ -69,16 +81,12 @@
       "id": "265B85D1-4E40-4080-A198-BDE6234AD5EE"
     },
     {
-      "class": "symbolInstance",
-      "id": "0FE2143A-74AA-4755-B088-4D9B293F3C8D"
+      "class": "symbolMaster",
+      "id": "1EBF0A24-702B-4984-AC51-CB2D33EB398C"
     },
     {
-      "class": "symbolInstance",
-      "id": "0690D592-186B-4F40-952D-BF080734D2DE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E9949435-AFD3-4A9F-8E18-AAE98B085F9A"
+      "class": "symbolMaster",
+      "id": "CE878B8E-65B1-4FCA-85E5-95BF25BF304A"
     }
   ],
   "name": "Templates",

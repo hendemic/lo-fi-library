@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4647,
+  "changeIdentifier": 5158,
   "do_objectID": "DA430A13-4D74-47FF-B381-7DE041D5BD1F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 4356
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,15 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "1F74BC17-F62C-4F0A-93E6-E9E8F4A33564"
+      "id": "13FFC323-22CC-405A-8DDD-49E40DBCAB90"
     },
     {
       "class": "symbolInstance",
-      "id": "C6004710-0AF2-47CF-8FC0-CBEF480849B6"
+      "id": "AF0A02CB-132F-4515-80BF-DCD739E82F2B"
     },
     {
       "class": "symbolInstance",
@@ -62,10 +62,6 @@
     {
       "class": "symbolInstance",
       "id": "90BD8946-8680-46AF-A843-4CEB178BE573"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FF90BE96-08DE-40A5-9145-90F8413B1FE1"
     }
   ],
   "name": "templates/mobile/e-commerce/cart",

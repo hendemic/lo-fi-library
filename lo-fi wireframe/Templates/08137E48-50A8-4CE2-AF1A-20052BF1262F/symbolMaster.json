@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4061,
+  "changeIdentifier": 4291,
   "do_objectID": "08137E48-50A8-4CE2-AF1A-20052BF1262F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 4356
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,19 +41,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "AFC26496-FCBE-4219-8104-E0335843ABC4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C05C9EF5-0DD1-452D-BF01-E698FFAE1804"
+      "id": "F28EA07C-ABCB-4FC3-A01B-E8A6BFCA25EC"
     },
     {
       "class": "symbolInstance",
       "id": "6184ED20-32B1-4A2F-B8E6-21A9B100558B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8712DC4-FBF5-4A3A-B9EA-AFF30EF3F58F"
     }
   ],
   "name": "templates/mobile/form/4 input form",

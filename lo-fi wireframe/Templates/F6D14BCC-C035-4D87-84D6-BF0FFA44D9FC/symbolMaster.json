@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2216,
+  "changeIdentifier": 2378,
   "do_objectID": "F6D14BCC-C035-4D87-84D6-BF0FFA44D9FC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 4356
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,23 +41,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "22867C30-A055-4FBD-A72F-06FD799FEDB7"
+      "id": "4F2FA8D4-70E2-4F4B-B637-446B1F097CF8"
+    },
+    {
+      "class": "group",
+      "id": "22088E93-3404-49F9-BD7D-9F2B09569FB1"
     },
     {
       "class": "symbolInstance",
-      "id": "788D9554-422D-4BC4-B8BB-827C3695CC07"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6F3CEF0E-F54B-4513-A8D6-2247B799F4F5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "62F0CB6F-7EA0-4371-B547-0FB731AA89CA"
+      "id": "D37611AE-2DA3-45A3-BE7D-D88AE2E491E0"
     }
   ],
   "name": "templates/mobile/e-commerce/browse",
