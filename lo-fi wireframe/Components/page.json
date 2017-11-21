@@ -57,6 +57,14 @@
       "id": "E9293582-F9C6-4DE6-974A-88CF8AC349DA"
     },
     {
+      "class": "symbolInstance",
+      "id": "5F09175E-68FD-4A72-8C77-43F4B3F9AFA5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAD426DF-BFC1-4C3E-A6FB-A10D0F20EDF3"
+    },
+    {
       "class": "symbolMaster",
       "id": "3B7CDC3A-27F1-4F08-8077-73DDA243BB76"
     },
@@ -303,10 +311,6 @@
     {
       "class": "symbolMaster",
       "id": "1EED97A1-C67C-4C29-9639-FCA0AA9EDC2E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5F09175E-68FD-4A72-8C77-43F4B3F9AFA5"
     },
     {
       "class": "symbolMaster",

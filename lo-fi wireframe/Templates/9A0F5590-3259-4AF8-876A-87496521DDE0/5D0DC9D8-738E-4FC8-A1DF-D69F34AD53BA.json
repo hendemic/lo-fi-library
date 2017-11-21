@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 387,
+    "width": 411.0000000000001,
     "x": 0,
     "y": 0
   },
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "components/android/android bar",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 15,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

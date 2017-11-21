@@ -16,12 +16,12 @@
     "height": 199,
     "width": 1164,
     "x": -2784,
-    "y": 4889
+    "y": 5018
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,

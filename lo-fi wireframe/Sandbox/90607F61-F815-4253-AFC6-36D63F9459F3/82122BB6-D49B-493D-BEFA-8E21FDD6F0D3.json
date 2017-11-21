@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "82122BB6-D49B-493D-BEFA-8E21FDD6F0D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 943,
+    "width": 440,
+    "x": 4690,
+    "y": 4579
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 84,
+  "masterInfluenceEdgeMaxYPadding": 116,
+  "masterInfluenceEdgeMinXPadding": 80,
+  "masterInfluenceEdgeMinYPadding": 67,
+  "name": "devices/mobile/google pixel 2/mid fi pixel 2",
+  "nameIsFixed": false,
+  "overrides": {
+    "735AFDE0-96C3-4157-8CC5-7731F18F2FDC": {
+      "symbolID": "72759DA1-A8FC-4865-9089-6945D4E9E0B0"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DF919257-2737-4536-9DCE-3DBB2827BA35",
+  "verticalSpacing": 0
+}

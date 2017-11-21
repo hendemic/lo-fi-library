@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 387,
+    "height": 60,
+    "width": 411,
     "x": 0,
-    "y": 624
+    "y": 671
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 2,
   "name": "navigation",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 55,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

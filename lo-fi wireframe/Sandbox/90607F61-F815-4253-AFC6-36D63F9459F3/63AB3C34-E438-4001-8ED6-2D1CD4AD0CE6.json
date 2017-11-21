@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 884,
-    "width": 420,
+    "height": 943,
+    "width": 440,
     "x": 1662,
     "y": 2952
   },
@@ -24,9 +24,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 172,
-  "masterInfluenceEdgeMaxYPadding": 41,
-  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "devices/mobile/google pixel 2/mid fi pixel 2",
   "nameIsFixed": false,

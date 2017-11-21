@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8538,
+  "changeIdentifier": 9604,
   "do_objectID": "9D991605-0A03-4C91-A9DD-F6D7EB4013B5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 884,
-    "width": 420,
+    "height": 943,
+    "width": 440,
     "x": -1167,
     "y": -1787
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,11 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "26F5CE61-9CDF-4D46-9F66-CD9D45A615C0"
+    },
+    {
       "class": "group",
-      "id": "CD6F706A-C02C-4A57-AED1-4C68352AD65A"
+      "id": "B44D4F91-FBCA-4FEA-AC17-C47A247FF578"
     }
   ],
   "name": "devices/mobile/google pixel 2/mid fi pixel 2",
