@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 446,
+  "changeIdentifier": 447,
   "do_objectID": "E559BC73-D079-4058-BBA9-8DABD400D917",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -696
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,14 +41,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
       "id": "0F5B5A25-88DD-42B8-8992-87EB80911931"
     }
   ],
-  "name": "components/content/text/paragraph/single line, left-align",
+  "name": "components/content/text/body paragraph/single line, left-align",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

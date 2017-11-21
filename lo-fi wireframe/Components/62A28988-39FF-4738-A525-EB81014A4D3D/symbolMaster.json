@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1850,
+  "changeIdentifier": 1851,
   "do_objectID": "62A28988-39FF-4738-A525-EB81014A4D3D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "0FE03EBA-6BEA-44E1-8BCD-37340DB83BBB"
     }
   ],
-  "name": "components/content/text/body paragraph/[no masking] blank",
+  "name": "components/content/text/body paragraph [no masking]/[no masking] blank",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

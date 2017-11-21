@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4,
+  "changeIdentifier": 5,
   "do_objectID": "CB0BEC72-4524-41D5-B474-9F143A8014A9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,14 +41,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
       "id": "CFD7A506-47D7-41B0-9C71-B934B46E81DF"
     }
   ],
-  "name": "components/content/text/paragraph/large, centered",
+  "name": "components/content/text/body paragraph/18pt, centered",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,

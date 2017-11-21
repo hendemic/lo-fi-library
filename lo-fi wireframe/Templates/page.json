@@ -87,6 +87,10 @@
     {
       "class": "symbolMaster",
       "id": "CE878B8E-65B1-4FCA-85E5-95BF25BF304A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B057A195-2526-4258-9058-175B06255A9C"
     }
   ],
   "name": "Templates",

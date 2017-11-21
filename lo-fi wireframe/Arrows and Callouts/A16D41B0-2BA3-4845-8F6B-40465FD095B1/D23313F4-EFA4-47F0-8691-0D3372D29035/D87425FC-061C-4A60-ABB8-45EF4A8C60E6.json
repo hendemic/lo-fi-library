@@ -44,7 +44,7 @@
       },
       {
         "_class": "curvePoint",
-        "cornerRadius": 0,
+        "cornerRadius": 1,
         "curveFrom": "{0.60869565217391186, 1}",
         "curveMode": 1,
         "curveTo": "{0.60869565217391186, 1}",
@@ -54,7 +54,7 @@
       },
       {
         "_class": "curvePoint",
-        "cornerRadius": 0,
+        "cornerRadius": 1,
         "curveFrom": "{0.60869565217391186, 0}",
         "curveMode": 1,
         "curveTo": "{0.60869565217391186, 0}",

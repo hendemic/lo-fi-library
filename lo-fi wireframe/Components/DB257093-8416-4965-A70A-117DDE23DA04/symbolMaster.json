@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 114,
+  "changeIdentifier": 115,
   "do_objectID": "DB257093-8416-4965-A70A-117DDE23DA04",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "30951B85-DD51-4BDB-BF34-FE2E2D0B6741"
     }
   ],
-  "name": "components/content/text/paragraph/24pt, centered",
+  "name": "components/content/text/body paragraph/24pt, centered",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

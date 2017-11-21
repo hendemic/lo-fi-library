@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1014,
+  "changeIdentifier": 1015,
   "do_objectID": "3E8C2931-F748-44DD-A942-109F65768935",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -743
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,14 +41,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
       "id": "7D7A306E-88AE-4450-889F-FFBFDF5299A9"
     }
   ],
-  "name": "components/content/text/paragraph/[no masking] lorum ipsum",
+  "name": "components/content/text/body paragraph [no masking]/[no masking] lorum ipsum",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

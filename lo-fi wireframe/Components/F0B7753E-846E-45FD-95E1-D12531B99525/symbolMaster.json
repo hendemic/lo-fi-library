@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1354,
+  "changeIdentifier": 1356,
   "do_objectID": "F0B7753E-846E-45FD-95E1-D12531B99525",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -740
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
       "id": "7DC03AF7-E612-42F0-8969-163F59120F30"
     }
   ],
-  "name": "components/content/text/body paragraph/lorum ipsum with masking",
+  "name": "components/content/text/body paragraph/body paragraph, text with masking",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1994,
+  "changeIdentifier": 1996,
   "do_objectID": "BA95CEC3-2CC3-4B57-85CE-9D50586A1857",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 182
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,7 +52,7 @@
       "id": "026100AA-27AA-4553-AF62-7A0DC171EFCC"
     }
   ],
-  "name": "flow/callout/callout-right",
+  "name": "flow/callout/callout, right",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

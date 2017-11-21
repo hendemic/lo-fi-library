@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 186,
+  "changeIdentifier": 188,
   "do_objectID": "FEDCE4E1-9F28-4D0F-BC95-040A5BFD4F51",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,8 +48,8 @@
       "id": "79078AC2-87D4-4AF1-A66C-332CBCE6B0E5"
     }
   ],
-  "name": "comment",
-  "nameIsFixed": false,
+  "name": "components/content/text/misc/comment",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

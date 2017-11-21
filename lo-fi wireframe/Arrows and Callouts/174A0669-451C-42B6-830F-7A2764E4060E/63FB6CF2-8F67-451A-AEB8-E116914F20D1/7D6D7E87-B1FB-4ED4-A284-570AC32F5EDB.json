@@ -45,12 +45,12 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 1,
-        "curveFrom": "{1, 0.50704225352112697}",
+        "curveFrom": "{1.0226443993291849, 0.50704225352112686}",
         "curveMode": 1,
-        "curveTo": "{1, 0.50704225352112697}",
+        "curveTo": "{1.0226443993291849, 0.50704225352112686}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{1, 0.50704225352112697}"
+        "point": "{1.0226443993291849, 0.50704225352112686}"
       },
       {
         "_class": "curvePoint",
