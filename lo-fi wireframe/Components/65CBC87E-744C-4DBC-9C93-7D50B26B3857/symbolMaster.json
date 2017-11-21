@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 867,
+  "changeIdentifier": 868,
   "do_objectID": "65CBC87E-744C-4DBC-9C93-7D50B26B3857",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 6847
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
       "id": "CAC87804-9F8E-4515-AA44-E554AA7AC6B8"
     }
   ],
-  "name": "components/input/atom/button text-white",
+  "name": "components/input/atoms/button text-white",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

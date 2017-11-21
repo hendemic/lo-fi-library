@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1035,
+  "changeIdentifier": 1036,
   "do_objectID": "DEF1299D-E1EE-40D2-89A7-DEE506025365",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 6941
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,7 +52,7 @@
       "id": "A340E682-3E78-4B6E-A334-32DA20029C27"
     }
   ],
-  "name": "components/input/atom/floating action button",
+  "name": "components/input/atoms/floating action button",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

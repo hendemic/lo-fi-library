@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 884,
+  "changeIdentifier": 1023,
   "do_objectID": "CE878B8E-65B1-4FCA-85E5-95BF25BF304A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "height": 731,
     "width": 411,
     "x": 210,
-    "y": 3772
+    "y": 4861
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,6 +46,10 @@
     {
       "class": "symbolInstance",
       "id": "2BF33C1D-1D46-47D9-B483-2FA2BC3853D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B057A195-2526-4258-9058-175B06255A9C"
     }
   ],
   "name": "templates/mobile/fixed/FAB",

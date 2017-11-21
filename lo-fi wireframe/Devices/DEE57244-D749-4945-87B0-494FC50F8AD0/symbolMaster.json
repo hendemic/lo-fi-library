@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3543,
+  "changeIdentifier": 5339,
   "do_objectID": "DEE57244-D749-4945-87B0-494FC50F8AD0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -46,6 +46,10 @@
     {
       "class": "group",
       "id": "F905BE2F-D821-449B-8D25-FD64B8F9024C"
+    },
+    {
+      "class": "group",
+      "id": "3FEC134A-1F7A-4556-B417-8C2BF17EFA1A"
     }
   ],
   "name": "devices/desktop/web/lo-fi",

@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "0690D592-186B-4F40-952D-BF080734D2DE",
+  "do_objectID": "36E29DE1-5669-4747-B6D2-58CE30434537",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 310,
-    "width": 2122,
-    "x": -1616,
-    "y": 2213
+    "height": 1629,
+    "width": 2871,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -27,12 +27,9 @@
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 11,
-  "name": "Artboard Labels",
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "templates/web/blank/empty page",
   "nameIsFixed": false,
-  "overrides": {
-    "801E75C8-CD83-47FF-B033-B39EB35E61E8": "Blank templates"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -43,12 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "BCE84EDF-9475-4A4B-B0C8-2193F354E003",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
+  "symbolID": "291A6BE2-2B49-4794-86FA-BE12E3A3C2C9",
   "verticalSpacing": 0
 }
