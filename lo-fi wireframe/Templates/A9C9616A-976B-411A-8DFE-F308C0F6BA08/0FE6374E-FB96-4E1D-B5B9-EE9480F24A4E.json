@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 1,
   "masterInfluenceEdgeMaxYPadding": 2,
   "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "top bar",
   "nameIsFixed": true,
   "overrides": {

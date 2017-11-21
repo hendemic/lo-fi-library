@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3190,
+  "changeIdentifier": 3196,
   "do_objectID": "BF02708D-4637-4112-9BCA-EF9B80C39265",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 1937
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,14 +41,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "9B8E030D-03DC-423A-9C9E-E7884B0894B3"
     }
   ],
-  "name": "components/navigation/top navigation/top nav left hamburger",
+  "name": "components/navigation/top navigation/organisms/top nav left hamburger",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

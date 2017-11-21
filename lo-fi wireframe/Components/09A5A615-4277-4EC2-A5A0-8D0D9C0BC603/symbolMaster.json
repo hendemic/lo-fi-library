@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1099,
+  "changeIdentifier": 1101,
   "do_objectID": "09A5A615-4277-4EC2-A5A0-8D0D9C0BC603",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,6 +54,10 @@
     {
       "class": "symbolInstance",
       "id": "90BD8946-8680-46AF-A843-4CEB178BE573"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAD426DF-BFC1-4C3E-A6FB-A10D0F20EDF3"
     }
   ],
   "name": "components/list/organisms/e-commerce cart list",
