@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5158,
+  "changeIdentifier": 5446,
   "do_objectID": "DA430A13-4D74-47FF-B381-7DE041D5BD1F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,15 +53,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "DD54E060-B0E1-48B9-B564-01A44ECD4748"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EAC89881-280D-4006-8D05-45B6B83DF8FC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "90BD8946-8680-46AF-A843-4CEB178BE573"
+      "id": "CE8D1C46-86A7-469A-8086-0638A90E3C63"
     }
   ],
   "name": "templates/mobile/e-commerce/cart",

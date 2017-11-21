@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2116,
+  "changeIdentifier": 2286,
   "do_objectID": "D85695F7-F4C6-4357-B27C-A9267A4542AE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,15 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "8D77A6F8-FE97-4B6B-BF69-6ACD2D10CCDD"
     },
     {
-      "class": "text",
-      "id": "53D3AD2F-8F7B-4001-8E87-0F911109C17E"
+      "class": "symbolInstance",
+      "id": "43C149D6-F638-4696-8E49-2B8CDB25F6D1"
     }
   ],
   "name": "flow/callout/callout-left",

@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "63AB3C34-E438-4001-8ED6-2D1CD4AD0CE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 884,
+    "width": 420,
+    "x": 1662,
+    "y": 2952
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 172,
+  "masterInfluenceEdgeMaxYPadding": 41,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "devices/mobile/google pixel 2/mid fi pixel 2",
+  "nameIsFixed": false,
+  "overrides": {
+    "735AFDE0-96C3-4157-8CC5-7731F18F2FDC": {
+      "13FFC323-22CC-405A-8DDD-49E40DBCAB90": {
+        "5C6F1A4E-A071-489C-BA19-6C19C6A3E46A": {
+          "DFBB7EF9-FBFE-4767-B65D-6D4A2970C67E": {
+            "12CF9F10-8638-4BC2-9EB5-3C3776A57F69": {
+            }
+          }
+        }
+      },
+      "AF0A02CB-132F-4515-80BF-DCD739E82F2B": {
+        "0136208B-59A5-4B5F-9FC2-4D6CC70B09B1": {
+          "symbolID": "DD094867-A3AF-452E-B17C-6E9DFD585E5C"
+        },
+        "E9749465-020C-46EF-892A-C2BBE4D8B4AB": {
+          "symbolID": "7CA2F214-FCE6-4745-AFCB-4E0AB68D2DA9"
+        },
+        "symbolID": "D8133139-304A-4D1C-B03C-2BE6418DDCC5"
+      },
+      "CE8D1C46-86A7-469A-8086-0638A90E3C63": {
+        "90BD8946-8680-46AF-A843-4CEB178BE573": {
+          "8CF9123E-783E-49DF-A3CE-863FB2E17CB0": {
+            "symbolID": "2975AD52-7670-450E-B2B1-541B8A90045A"
+          },
+          "96BE9C37-1696-491C-9B8F-C53529F44C94": {
+            "3D1259E4-04D1-4E97-9CB8-808ABC56518C": {
+              "symbolID": "E8EAC289-6E7E-45C0-B762-70DDAA176229"
+            }
+          }
+        }
+      },
+      "symbolID": "165CBCDB-1B29-4EE8-AEEB-CFA11BE759B8"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D42CE5D3-2629-429A-AFE2-64F8502C335F",
+  "verticalSpacing": 0
+}

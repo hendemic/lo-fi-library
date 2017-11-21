@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 137,
+  "changeIdentifier": 138,
   "do_objectID": "3D2903B4-0D27-4FC2-B925-AC25E123C7D4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 2
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
       "id": "87E3CD12-9B07-4D4B-B1C1-31D6E32FD5F4"
     }
   ],
-  "name": "color/wireframe/blue",
+  "name": "color/wireframe/bright blue",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

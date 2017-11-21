@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 566,
+  "changeIdentifier": 567,
   "do_objectID": "A9F8485C-1FAA-435B-B8C4-E8A2BD6A76C1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "FA4F7509-06D4-4DF5-85F1-51C739F6F6FC"
     }
   ],
-  "name": "color/wireframe/red",
+  "name": "color/wireframe/soft red",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

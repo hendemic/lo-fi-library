@@ -315,6 +315,14 @@
     {
       "class": "symbolMaster",
       "id": "DB257093-8416-4965-A70A-117DDE23DA04"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FEDCE4E1-9F28-4D0F-BC95-040A5BFD4F51"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "09A5A615-4277-4EC2-A5A0-8D0D9C0BC603"
     }
   ],
   "name": "Components",
