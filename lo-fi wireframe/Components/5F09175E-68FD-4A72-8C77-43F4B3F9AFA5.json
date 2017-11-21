@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 199,
-    "width": 928,
+    "height": 310,
+    "width": 2122,
     "x": -2784,
     "y": 10473
   },
@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 11,
   "name": "Artboard Labels",
   "nameIsFixed": false,
   "overrides": {
