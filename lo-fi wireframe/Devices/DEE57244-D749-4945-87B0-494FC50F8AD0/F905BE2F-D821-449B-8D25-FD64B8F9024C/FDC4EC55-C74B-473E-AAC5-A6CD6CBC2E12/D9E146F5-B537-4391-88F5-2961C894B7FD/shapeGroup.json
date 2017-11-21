@@ -20,7 +20,7 @@
     "y": 0
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -32,7 +32,7 @@
       "id": "BDA7FFFF-DD41-4D29-8826-00F6DC9840E0"
     }
   ],
-  "name": "perimeter",
+  "name": "Mask",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -51,7 +51,7 @@
           "red": 0.4732134841376872
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 5
       }
