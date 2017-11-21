@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2828,
+  "changeIdentifier": 3607,
   "do_objectID": "53964A16-0189-4095-898B-565FB01725BA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,6 +50,10 @@
     {
       "class": "symbolInstance",
       "id": "2E719FD4-87EE-46D6-B129-24A9CE519FBB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "860FCC7F-4BC3-4E25-A236-F2A5FABF2489"
     }
   ],
   "name": "components/navigation/web top nav/organisms/top web nav 1",

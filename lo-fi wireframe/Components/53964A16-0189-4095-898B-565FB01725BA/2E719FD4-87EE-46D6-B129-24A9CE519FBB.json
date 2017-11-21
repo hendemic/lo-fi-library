@@ -25,11 +25,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 2,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 2,
-  "masterInfluenceEdgeMinYPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 3,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "components/navigation/molecules/web right top menu ",
   "nameIsFixed": false,
+  "overrides": {
+    "C42CD6AC-1A54-47F2-96A1-962D0BC37F1F": {
+      "symbolID": "C2CEE9DA-1D5F-4955-9614-BC5606A83719"
+    }
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -40,6 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "F3B8A7DC-4DED-4FAC-AF13-45CDEB8E1F67",
+  "symbolID": "1AC6A5F0-EF98-42D2-A53F-8A9AAA0DAA8B",
   "verticalSpacing": 0
 }

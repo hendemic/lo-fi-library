@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 171,
-  "do_objectID": "571D4CB0-47A1-4C8B-8C1B-04C6CEE87E07",
+  "changeIdentifier": 3378,
+  "do_objectID": "A48A87CB-864C-4294-9445-30CC81283F62",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 3,
+    "height": 48,
+    "width": 641,
     "x": 439,
-    "y": 1784
+    "y": 1944
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,15 +41,19 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "312CCE7D-5299-4B5D-97FD-94F70E26E609"
+      "class": "group",
+      "id": "15170FE2-C193-48C6-8078-F57500828A42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65D1A54A-EE2B-41A4-87A6-373664CA995E"
     }
   ],
-  "name": "components/navigation/web top nav/atoms/top menu border",
-  "nameIsFixed": false,
+  "name": "components/navigation/web top nav/molecules/supporting elements/[4 item] web right top menu_configurable",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -61,7 +65,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "C7040E2F-29E2-4ECB-99C8-BAE52691EA66",
+  "symbolID": "28CCF46D-E9AE-4BCF-A268-70238DC4AFC9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
