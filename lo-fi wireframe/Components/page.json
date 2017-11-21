@@ -307,6 +307,14 @@
     {
       "class": "symbolInstance",
       "id": "5F09175E-68FD-4A72-8C77-43F4B3F9AFA5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CB0BEC72-4524-41D5-B474-9F143A8014A9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DB257093-8416-4965-A70A-117DDE23DA04"
     }
   ],
   "name": "Components",
