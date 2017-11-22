@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "5F09175E-68FD-4A72-8C77-43F4B3F9AFA5",
+  "do_objectID": "8D76546C-B304-4A81-9460-9B4ADF2A61D8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 310,
     "width": 2122,
-    "x": -2784,
-    "y": 10473
+    "x": -2810,
+    "y": 1127
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,7 +31,7 @@
   "name": "Artboard Labels",
   "nameIsFixed": false,
   "overrides": {
-    "801E75C8-CD83-47FF-B033-B39EB35E61E8": "Home screen"
+    "801E75C8-CD83-47FF-B033-B39EB35E61E8": "Content"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

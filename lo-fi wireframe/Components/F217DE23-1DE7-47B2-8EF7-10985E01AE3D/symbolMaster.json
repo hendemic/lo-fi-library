@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 7,
+  "changeIdentifier": 289,
   "do_objectID": "F217DE23-1DE7-47B2-8EF7-10985E01AE3D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 195,
     "width": 310,
-    "x": 2591,
-    "y": -565
+    "x": 2162,
+    "y": -323
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,9 +48,9 @@
       "id": "F611F8C3-9E93-4FA8-99B4-9C8363E60ACF"
     }
   ],
-  "name": "components/text/body paragraph/bullet list with masking",
+  "name": "components/content/text/body paragraph/bullet list with masking",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

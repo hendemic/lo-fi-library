@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 792,
+  "changeIdentifier": 877,
   "do_objectID": "02F894D5-AB12-41AC-987D-A470978D4E63",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 20,
     "width": 310,
-    "x": 2162,
-    "y": -615
+    "x": 2161,
+    "y": -723
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -52,7 +52,7 @@
       "id": "96B38435-1062-48B7-B839-356247B5049F"
     }
   ],
-  "name": "components/text/body paragraphy/single bullet, p, web, text",
+  "name": "components/content/text/body paragraph/single bullet, p, web, text",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

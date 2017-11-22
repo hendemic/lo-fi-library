@@ -30,7 +30,7 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "bullet list",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

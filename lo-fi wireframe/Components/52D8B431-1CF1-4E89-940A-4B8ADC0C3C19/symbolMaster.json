@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 47,
+  "changeIdentifier": 48,
   "do_objectID": "52D8B431-1CF1-4E89-940A-4B8ADC0C3C19",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -945
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
       "id": "C01CCED2-7734-4044-A692-4C1C97997CEE"
     }
   ],
-  "name": "components/text/form/form-large, left",
+  "name": "components/form/form-large, left",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,

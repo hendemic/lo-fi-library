@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1127,
+  "changeIdentifier": 1182,
   "do_objectID": "DF4AF2E5-F07F-4333-805D-616FB70CF8F0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 87,
     "width": 387,
-    "x": -837,
-    "y": 10473
+    "x": -859,
+    "y": 12499
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,6 +46,10 @@
     {
       "class": "shapeGroup",
       "id": "B05B8335-EC0D-431A-B23E-57651E7CF45A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F09175E-68FD-4A72-8C77-43F4B3F9AFA5"
     }
   ],
   "name": "components/home screen/atom/notification border",
