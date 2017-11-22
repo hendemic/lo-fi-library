@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "DF262461-CCB6-4F22-AEC1-F9BDA0DCFF57",
+  "do_objectID": "32AC4F4E-C838-4069-BBFA-1025C94826CC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 310,
-    "width": 2122,
-    "x": -2784,
-    "y": -772
+    "height": 140,
+    "width": 140,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -27,12 +27,9 @@
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 11,
-  "name": "Artboard Labels",
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "components/social/atoms/profile, large",
   "nameIsFixed": false,
-  "overrides": {
-    "801E75C8-CD83-47FF-B033-B39EB35E61E8": "Text formatting"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -43,12 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "BCE84EDF-9475-4A4B-B0C8-2193F354E003",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
+  "symbolID": "7906F32D-56F6-43D4-B058-01E2AF9D4F6D",
   "verticalSpacing": 0
 }

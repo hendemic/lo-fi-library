@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1821,
+  "changeIdentifier": 1999,
   "do_objectID": "D3778BB6-18DC-4029-BD81-685D5E3B5658",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 7099
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -49,11 +49,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "6CBDEB9E-51D1-4579-B293-DA809B2DEC0F"
+      "id": "7DC91DAF-B28F-4F49-915A-5D4700E86FA7"
     },
     {
       "class": "symbolInstance",
-      "id": "7DC91DAF-B28F-4F49-915A-5D4700E86FA7"
+      "id": "D463D73B-66E5-4A9F-89E8-5AB85922BAA5"
     }
   ],
   "name": "components/input/molecules/input with labels",

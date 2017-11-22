@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1800,
-    "width": 2880,
+    "height": 900,
+    "width": 1440,
     "x": 0,
     "y": 0
   },

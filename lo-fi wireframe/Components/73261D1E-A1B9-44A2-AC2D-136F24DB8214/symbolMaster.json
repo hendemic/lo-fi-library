@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3209,
+  "changeIdentifier": 3215,
   "do_objectID": "73261D1E-A1B9-44A2-AC2D-136F24DB8214",
   "exportOptions": {
     "_class": "exportOptions",
@@ -94,7 +94,7 @@
   ],
   "name": "components/navigation/web top nav/molecules/supporting elements/web right top menu_configurable",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

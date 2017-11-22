@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 641,
-    "x": 2213,
-    "y": 60
+    "x": 795,
+    "y": 72
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -35,7 +35,7 @@
       "symbolID": "C2CEE9DA-1D5F-4955-9614-BC5606A83719"
     }
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 60,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

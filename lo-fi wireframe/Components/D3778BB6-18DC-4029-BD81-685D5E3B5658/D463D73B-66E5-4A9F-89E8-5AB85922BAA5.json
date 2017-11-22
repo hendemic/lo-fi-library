@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "6CBDEB9E-51D1-4579-B293-DA809B2DEC0F",
+  "do_objectID": "D463D73B-66E5-4A9F-89E8-5AB85922BAA5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 92,
-    "x": 18,
-    "y": 34
+    "height": 33,
+    "width": 225,
+    "x": 13,
+    "y": 23
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "internal label",
-  "nameIsFixed": true,
+  "name": "components/text/form/form-large, left",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -40,12 +40,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "B4098E71-B896-42AA-B914-30AB12A921A2",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
+  "symbolID": "19938824-A4E4-47A4-99EC-65E7A4E232AF",
   "verticalSpacing": 0
 }

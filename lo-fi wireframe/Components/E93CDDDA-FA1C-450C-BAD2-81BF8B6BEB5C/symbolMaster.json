@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1055,
+  "changeIdentifier": 1438,
   "do_objectID": "E93CDDDA-FA1C-450C-BAD2-81BF8B6BEB5C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "51085471-34E6-4789-BBB5-A785D99EF69C"
     }
   ],
-  "name": "components/social/molecules/profile",
+  "name": "components/social/molecules/profile, med, with name",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 1,
   "masterInfluenceEdgeMaxYPadding": 2,
   "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 3,
   "name": "templates/mobile/blank/bottom nav + menu",
   "nameIsFixed": false,
   "resizingConstraint": 63,

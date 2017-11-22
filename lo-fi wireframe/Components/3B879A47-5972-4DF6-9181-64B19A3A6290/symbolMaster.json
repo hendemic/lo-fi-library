@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 452,
+  "changeIdentifier": 958,
   "do_objectID": "3B879A47-5972-4DF6-9181-64B19A3A6290",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 35,
+    "height": 48,
     "width": 239,
-    "x": -804,
-    "y": -686
+    "x": -855,
+    "y": -1124
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -50,7 +50,7 @@
   ],
   "name": "components/content/text/heading/h1",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
