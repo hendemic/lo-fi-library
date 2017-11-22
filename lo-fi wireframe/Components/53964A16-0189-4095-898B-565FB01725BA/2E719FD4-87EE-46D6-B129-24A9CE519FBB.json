@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 3,
   "masterInfluenceEdgeMinYPadding": 1,
-  "name": "components/navigation/molecules/web right top menu ",
-  "nameIsFixed": false,
+  "name": "top menu",
+  "nameIsFixed": true,
   "overrides": {
     "C42CD6AC-1A54-47F2-96A1-962D0BC37F1F": {
       "symbolID": "C2CEE9DA-1D5F-4955-9614-BC5606A83719"
