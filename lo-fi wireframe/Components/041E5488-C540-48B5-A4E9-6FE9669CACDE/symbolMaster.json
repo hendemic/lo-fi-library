@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2768,
+  "changeIdentifier": 2769,
   "do_objectID": "041E5488-C540-48B5-A4E9-6FE9669CACDE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,7 +56,7 @@
       "id": "9410EF8C-7D82-4285-A181-996F436C9B7C"
     }
   ],
-  "name": "components/content/image/atoms/blank",
+  "name": "components/content/image/atoms/blank, cross",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

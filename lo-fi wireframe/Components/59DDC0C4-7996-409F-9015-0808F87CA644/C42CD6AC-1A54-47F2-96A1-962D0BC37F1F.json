@@ -25,9 +25,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 2,
-  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 2,
-  "masterInfluenceEdgeMinYPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "🔢item count",
   "nameIsFixed": true,
   "overrides": {

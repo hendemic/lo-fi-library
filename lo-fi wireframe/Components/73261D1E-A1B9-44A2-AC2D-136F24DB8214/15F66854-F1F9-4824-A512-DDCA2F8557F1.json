@@ -33,7 +33,7 @@
   "overrides": {
     "5D3D6FE9-9052-48B8-9262-5D817DD4BA9C": "item 4"
   },
-  "resizingConstraint": 61,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
