@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2451,
+  "do_objectID": "40840A11-CE0F-4DAB-9EAD-69FDA5F7A062",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 240,
+    "width": 327,
+    "x": -1131,
+    "y": 1531
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9A473D24-7C34-44F6-A4FE-6C78388EC153"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBB561D4-FE09-433C-92EB-065A2802F60C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAC210BE-48F9-4D5F-97D0-073B71C632E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7639A9BD-CC32-4C74-8339-2C434035BE62"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFF01E5D-FC46-484E-B6A0-D2FC3F8AA111"
+    }
+  ],
+  "name": "component/content/cards/organism/card, title, description",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9CA2FC78-8327-420F-A88C-14D208EEFE2B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

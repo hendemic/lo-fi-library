@@ -16,7 +16,7 @@
     "height": 33,
     "width": 225,
     "x": 13,
-    "y": 23
+    "y": 51
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -36,6 +36,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.3663383152173913
+    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
