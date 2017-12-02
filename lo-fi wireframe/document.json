@@ -1337,7 +1337,7 @@
           "green": 1,
           "red": 1
         },
-        "changeIdentifier": 762,
+        "changeIdentifier": 763,
         "do_objectID": "89610695-F05E-4DB9-87CF-52F1FBFEA83F",
         "exportOptions": {
           "_class": "exportOptions",
@@ -1814,51 +1814,6 @@
               }
             },
             "verticalSpacing": 0
-          },
-          {
-            "_class": "symbolInstance",
-            "do_objectID": "D805CBB2-2412-43B7-BBA2-E149B7E57A88",
-            "exportOptions": {
-              "_class": "exportOptions",
-              "exportFormats": [
-              ],
-              "includedLayerIds": [
-              ],
-              "layerOptions": 0,
-              "shouldTrim": false
-            },
-            "frame": {
-              "_class": "rect",
-              "constrainProportions": false,
-              "height": 24,
-              "width": 24,
-              "x": -3,
-              "y": 14
-            },
-            "horizontalSpacing": 0,
-            "isFlippedHorizontal": false,
-            "isFlippedVertical": false,
-            "isLocked": false,
-            "isVisible": true,
-            "layerListExpandedType": 0,
-            "masterInfluenceEdgeMaxXPadding": 0,
-            "masterInfluenceEdgeMaxYPadding": 0,
-            "masterInfluenceEdgeMinXPadding": 250,
-            "masterInfluenceEdgeMinYPadding": 90,
-            "name": "atom/icon/checkbox",
-            "nameIsFixed": false,
-            "resizingConstraint": 63,
-            "resizingType": 0,
-            "rotation": 0,
-            "shouldBreakMaskChain": false,
-            "style": {
-              "_class": "style",
-              "endDecorationType": 0,
-              "miterLimit": 10,
-              "startDecorationType": 0
-            },
-            "symbolID": "283584B2-4CF5-4091-B093-D0C1F9CE38A7",
-            "verticalSpacing": 0
           }
         ],
         "name": "atom/icon/add",
@@ -1898,7 +1853,7 @@
           "green": 1,
           "red": 1
         },
-        "changeIdentifier": 766,
+        "changeIdentifier": 765,
         "do_objectID": "89610695-F05E-4DB9-87CF-52F1FBFEA83F",
         "exportOptions": {
           "_class": "exportOptions",
@@ -2376,53 +2331,6 @@
                 }
               }
             },
-            "verticalSpacing": 0
-          },
-          {
-            "_class": "symbolInstance",
-            "do_objectID": "D805CBB2-2412-43B7-BBA2-E149B7E57A88",
-            "exportOptions": {
-              "_class": "exportOptions",
-              "exportFormats": [
-              ],
-              "includedLayerIds": [
-              ],
-              "layerOptions": 0,
-              "shouldTrim": false
-            },
-            "frame": {
-              "_class": "rect",
-              "constrainProportions": false,
-              "height": 24,
-              "width": 24,
-              "x": -3,
-              "y": 14
-            },
-            "horizontalSpacing": 0,
-            "isFlippedHorizontal": false,
-            "isFlippedVertical": false,
-            "isLocked": false,
-            "isVisible": true,
-            "layerListExpandedType": 0,
-            "masterInfluenceEdgeMaxXPadding": 0,
-            "masterInfluenceEdgeMaxYPadding": 0,
-            "masterInfluenceEdgeMinXPadding": 250,
-            "masterInfluenceEdgeMinYPadding": 90,
-            "name": "atom/icon/checkbox",
-            "nameIsFixed": false,
-            "overrides": {
-            },
-            "resizingConstraint": 63,
-            "resizingType": 0,
-            "rotation": 0,
-            "shouldBreakMaskChain": false,
-            "style": {
-              "_class": "style",
-              "endDecorationType": 0,
-              "miterLimit": 10,
-              "startDecorationType": 0
-            },
-            "symbolID": "8AC702FC-F30D-4D12-AD83-15A6991494A2",
             "verticalSpacing": 0
           }
         ],
@@ -14191,7 +14099,7 @@
           "green": 1,
           "red": 1
         },
-        "changeIdentifier": 542,
+        "changeIdentifier": 545,
         "do_objectID": "E2628909-58E2-4089-AF5E-E84654A8A65D",
         "exportOptions": {
           "_class": "exportOptions",
@@ -14320,7 +14228,7 @@
             ],
             "name": "Line",
             "nameIsFixed": false,
-            "resizingConstraint": 63,
+            "resizingConstraint": 58,
             "resizingType": 0,
             "rotation": 0,
             "shouldBreakMaskChain": false,
@@ -14383,7 +14291,7 @@
         ],
         "name": "components/navigation/top navigation/atom/divider line",
         "nameIsFixed": true,
-        "resizesContent": false,
+        "resizesContent": true,
         "resizingConstraint": 63,
         "resizingType": 0,
         "rotation": 0,
@@ -14418,7 +14326,7 @@
           "green": 1,
           "red": 1
         },
-        "changeIdentifier": 542,
+        "changeIdentifier": 545,
         "do_objectID": "E2628909-58E2-4089-AF5E-E84654A8A65D",
         "exportOptions": {
           "_class": "exportOptions",
@@ -14547,7 +14455,7 @@
             ],
             "name": "Line",
             "nameIsFixed": false,
-            "resizingConstraint": 63,
+            "resizingConstraint": 58,
             "resizingType": 0,
             "rotation": 0,
             "shouldBreakMaskChain": false,
@@ -14610,7 +14518,7 @@
         ],
         "name": "components/navigation/top navigation/atom/divider line",
         "nameIsFixed": true,
-        "resizesContent": false,
+        "resizesContent": true,
         "resizingConstraint": 63,
         "resizingType": 0,
         "rotation": 0,
